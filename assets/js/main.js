@@ -8,3 +8,15 @@
     button.setAttribute('aria-expanded', open ? 'true' : 'false');
   });
 })();
+
+// "Read more" / "Show less" button below the text.
+document.querySelectorAll('.toggle-more').forEach(function (btn) {
+  var box = document.getElementById(btn.getAttribute('aria-controls'));
+  btn.addEventListener('click', function () {
+    var opening = box.hidden;
+    box.hidden = !opening;
+    btn.setAttribute('aria-expanded', opening ? 'true' : 'false');
+    btn.textContent = opening ? btn.dataset.less : btn.dataset.more;
+    if (!opening) btn.scrollIntoView({ block: 'nearest' });
+  });
+});
