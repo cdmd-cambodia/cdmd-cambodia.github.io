@@ -200,3 +200,11 @@ h3 { font-size: 20px; font-weight: 600; }
 
 .jump { margin-bottom: 24px; }
 .page-head + .theme { border-top: 0; }
+
+.work-with-us { padding-top: 0; }
+.partner-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; margin-top: 8px; }
+.partner-card { display: flex; flex-direction: column; gap: 12px; padding: 28px; border: 1px solid var(--line); border-radius: var(--radius); background: #fff; }
+.partner-card h3 { margin: 0; }
+.partner-card p { margin: 0; flex: 1; color: var(--muted); font-size: 17px; }
+.partner-card .btn { align-self: flex-start; }
+@media (max-width: 860px) { .partner-cards { grid-template-columns: 1fr; } }
