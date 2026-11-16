@@ -136,14 +136,16 @@ about:
     Thank you for your interest and support.
   story_title: "Our Story"
   story:
-    - year: "[Year]"
-      text: "[Under Construction!] Founding of CDMD."
-    - year: "[Year]"
-      text: "[Under Construction!] Earlier activities."
-    - year: "[Year]"
-      text: "[Under Construction!] Period of inactivity."
-    - year: "2026"
-      text: "[Under Construction!] Relaunch of CDMD."
+    - year: "1993"
+      text: "CDMD's roots lie in Rehabilitation for Blind Cambodians – Community-Based Rehabilitation (RBC-CBR). The initiative was first supported by international organizations, including Maryknoll Sisters and Caritas."
+    - year: "1993–2006"
+      text: "The initiative gradually built local capacity, expertise, and community-based networks, particularly in rural Cambodia."
+    - year: "2006"
+      text: "On 22 December 2006, CDMD was formally registered as a Cambodian NGO with the Ministry of Interior."
+    - year: "2007"
+      text: "CDMD began operating as an independent Cambodian organization, committed to locally led disability inclusion."
+    - year: "Today"
+      text: "Building on more than three decades of community-based rehabilitation experience, CDMD continues to work alongside persons with disabilities, their families, communities, and government institutions. Our work is guided by the principle \"Nothing About Us Without Us.\""
 
 # ---------------- OUR WORK ----------------
 # The four themes also appear as cards on the Home page.
