@@ -28,18 +28,9 @@
 </section>
 
 <section class="section section-tint" aria-labelledby="contact">
-  <div class="wrap contact-grid">
-    <div>
-      <h2 id="contact">{{ j.contact_title }}</h2>
-      <p>{{ j.contact_text }}</p>
-      <p><a href="mailto:{{ t.footer.email }}">{{ t.footer.email }}</a></p>
-    </div>
-    <div>
-      {%- if j.contact_form_url and j.contact_form_url != "" %}
-      <iframe class="form-embed" src="{{ j.contact_form_url }}" title="{{ j.contact_title }}" loading="lazy"></iframe>
-      {%- else %}
-      <div class="form-placeholder">[Contact form: Under Construction!]</div>
-      {%- endif %}
-    </div>
+  <div class="wrap">
+    <h2 id="contact">{{ j.contact_title }}</h2>
+    <p>{{ j.contact_text }}</p>
+    <p><a href="mailto:{{ t.footer.email }}">{{ t.footer.email }}</a></p>
   </div>
 </section>
