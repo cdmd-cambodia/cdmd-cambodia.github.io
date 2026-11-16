@@ -32,15 +32,16 @@ ui:
   placeholder_data: "[Under Construction!]"
 
 footer:
-  address: "[Under Construction!]"
-  map_url: "https://maps.google.com"
-  map_label: "Google Maps"
-  contact_title: "[Under Construction!]"
-  email: "info@example.org"
-  phone: "[Under Construction!]"
-  follow_title: "[Under Construction!]"
-  facebook: "https://www.facebook.com"
-  registration: "[Under Construction!]"
+  address: "#211, 91K St., Chamkar Ov-lek Village, Sangkat Kakap, Porsenchey,Phnom Penh, Cambodia, 12406."
+  map_url: "https://maps.app.goo.gl/aw9SZfeNvMiQXoRp9"
+  map_label: "View on Google Maps"
+  contact_title: "Contact"
+  email: "thynhip@gmail.com"
+  phone: "+855 96 884 2492"
+  follow_title: "Follow Us"
+  facebook: "https://web.facebook.com/CDMDCambodia/?_rdc=1&_rdr#"
+  linkedin: ""
+  telegram: ""
 
 home:
   name_html: '<span class="init">C</span>ambodian <span class="init">D</span>evelopment<br><span class="init">M</span>ission for <span class="init">D</span>isability'
