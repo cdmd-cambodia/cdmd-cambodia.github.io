@@ -116,7 +116,7 @@ about:
   message_title: "Message from the Executive Director"
   director_name: Nhip Thy
   director_title: "Executive Director"
-  director_photo: ""        # e.g. /assets/images/director.jpg
+  director_photo: "/assets/images/director.png"
   director_photo_alt: "Portrait of the Executive Director"
   message_intro: |
     Welcome to the Cambodian Development Mission for Disability (CDMD).
