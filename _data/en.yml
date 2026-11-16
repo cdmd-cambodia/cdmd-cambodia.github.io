@@ -31,15 +31,16 @@ ui:
   placeholder_data: "Placeholder data – to be replaced"
 
 footer:
-  address: "[Office address – Under Construction!]"
-  map_url: "https://maps.google.com"
+  address: "#211, 91K St., Chamkar Ov-lek Village, Sangkat Kakap, Porsenchey,Phnom Penh, Cambodia, 12406."
+  map_url: "https://maps.app.goo.gl/aw9SZfeNvMiQXoRp9"
   map_label: "View on Google Maps"
   contact_title: "Contact"
-  email: "info@example.org"
-  phone: "[Phone number]"
+  email: "thynhip@gmail.com"
+  phone: "+855 96 884 2492"
   follow_title: "Follow Us"
-  facebook: "https://www.facebook.com"
-  registration: "[Registration number – Under Construction!]"
+  facebook: "https://web.facebook.com/CDMDCambodia/?_rdc=1&_rdr#"
+  linkedin: ""
+  telegram: ""
 
 # ---------------- HOME ----------------
 home:
