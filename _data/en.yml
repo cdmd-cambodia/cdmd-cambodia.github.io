@@ -145,7 +145,7 @@ work:
     - id: learning
       title: "Learning Support"
       summary: "We help children with disabilities enter school, stay in school, and learn."
-      photo: ""
+      photo: "/assets/images/learning-support.png"
       photo_alt: "Children learning in an inclusive classroom"
       problem: "Children with disabilities are less likely to enroll in and complete school. [Under Construction!]"
       activities:
@@ -162,7 +162,7 @@ work:
     - id: employment
       title: "Employment Support"
       summary: "We provide skills training and employment support for persons with disabilities."
-      photo: ""
+      photo: "/assets/images/employment-support.png"
       photo_alt: "Skills training session"
       problem: "Adults with disabilities face barriers to skills and decent work. [Under Construction!]"
       activities:
@@ -178,7 +178,7 @@ work:
     - id: family
       title: "Family Support"
       summary: "We support families of persons with disabilities to stay economically secure."
-      photo: ""
+      photo: "/assets/images/family-support.png"
       photo_alt: "Family activity"
       problem: "Households with a member with a disability face extra costs and lost income. [Under Construction!]"
       activities:
@@ -194,7 +194,7 @@ work:
     - id: research
       title: "Research and Evidence"
       summary: "We generate evidence to improve our programs and inform policy."
-      photo: ""
+      photo: "/assets/images/research-evidence.png"
       photo_alt: "Survey data collection"
       problem: "Reliable data on persons with disabilities in Cambodia remain limited. [Under Construction!]"
       activities:
