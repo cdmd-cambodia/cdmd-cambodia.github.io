@@ -197,3 +197,6 @@ h3 { font-size: 20px; font-weight: 600; }
 
 .toggle-more { display: inline-flex; align-items: center; min-height: 44px; padding: 0; border: 0; background: none; font: inherit; font-weight: 500; color: var(--accent-text); cursor: pointer; }
 .toggle-more:hover { color: var(--accent-dark); }
+
+.jump { margin-bottom: 24px; }
+.page-head + .theme { border-top: 0; }
