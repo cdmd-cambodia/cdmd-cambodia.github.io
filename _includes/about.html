@@ -28,10 +28,10 @@
       </div>
       <div>
         {{ a.message_intro | markdownify }}
-        <details class="readmore">
-          <summary><span class="when-closed">{{ t.ui.read_more }}</span><span class="when-open">{{ t.ui.read_less }}</span></summary>
+        <div id="message-more" hidden>
           {{ a.message_rest | markdownify }}
-        </details>
+        </div>
+        <button type="button" class="toggle-more" aria-expanded="false" aria-controls="message-more" data-more="{{ t.ui.read_more }}" data-less="{{ t.ui.read_less }}">{{ t.ui.read_more }}</button>
       </div>
     </div>
   </div>
