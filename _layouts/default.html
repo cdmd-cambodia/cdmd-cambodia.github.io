@@ -5,7 +5,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% if page.key == "home" %}{{ t.org_name }}{% else %}{{ t.nav[page.key] }} | CDMD{% endif %}</title>
+<title>{% if page.key == "home" %}CDMD | {{ t.org_name }}{% else %}{{ t.nav[page.key] }} | CDMD{% endif %}</title>
 <meta name="description" content="{{ t.home.tagline }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
