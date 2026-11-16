@@ -40,20 +40,29 @@
       <div>
         <h2>{{ t.org_name }}</h2>
         <p>{{ t.footer.address }}</p>
+        {%- if t.footer.map_url and t.footer.map_url != "" %}
         <p><a href="{{ t.footer.map_url }}" target="_blank" rel="noopener">{{ t.footer.map_label }}</a></p>
+        {%- endif %}
       </div>
       <div>
         <h2>{{ t.footer.contact_title }}</h2>
         <p><a href="mailto:{{ t.footer.email }}">{{ t.footer.email }}</a></p>
-        <p>{{ t.footer.phone }}</p>
+        <p><a href="tel:{{ t.footer.phone | remove: ' ' }}">{{ t.footer.phone }}</a></p>
       </div>
       <div>
         <h2>{{ t.footer.follow_title }}</h2>
+        {%- if t.footer.facebook and t.footer.facebook != "" %}
         <p><a href="{{ t.footer.facebook }}" target="_blank" rel="noopener">Facebook</a></p>
+        {%- endif %}
+        {%- if t.footer.linkedin and t.footer.linkedin != "" %}
+        <p><a href="{{ t.footer.linkedin }}" target="_blank" rel="noopener">LinkedIn</a></p>
+        {%- endif %}
+        {%- if t.footer.telegram and t.footer.telegram != "" %}
+        <p><a href="{{ t.footer.telegram }}" target="_blank" rel="noopener">Telegram</a></p>
+        {%- endif %}
       </div>
     </div>
     <div class="footer-bottom">
-      <p>{{ t.footer.registration }}</p>
       <p>© {{ site.time | date: "%Y" }} CDMD</p>
     </div>
   </div>
