@@ -194,3 +194,6 @@ h3 { font-size: 20px; font-weight: 600; }
 
 .page-head + .section { padding-top: 30px; }
 .vm .eyebrow { font-size: 18px; }
+
+.toggle-more { display: inline-flex; align-items: center; min-height: 44px; padding: 0; border: 0; background: none; font: inherit; font-weight: 500; color: var(--accent-text); cursor: pointer; }
+.toggle-more:hover { color: var(--accent-dark); }
