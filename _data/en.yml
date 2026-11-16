@@ -274,7 +274,15 @@ join:
 
         #### How to apply
         Click "Apply" and complete the registration form.
-  other_title: "Other Opportunities"
-  other_text: "CDMD also welcomes partners who share our commitment to disability inclusion. You can work with us on projects as a funder, a technical advisor, or a local implementing partner, such as an NGO or a government agency. We also support researchers and organizations with survey implementation and impact evaluations, drawing on long-standing relationships with communities across Cambodia. To discuss an opportunity, please contact us below."
+  work_title: "Work With Us"
+  work_items:
+    - title: "Co-implementation"
+      text: "We welcome partners who share our commitment to disability inclusion. You can join us as a funder, a technical advisor, or a local implementing partner, such as an NGO or a government agency. Together, we design, deliver, and evaluate projects that make a lasting difference."
+      button: "Discuss a partnership"
+      subject: "Partnership inquiry"
+    - title: "Survey and Evaluation Services"
+      text: "Persons with disabilities are often underrepresented in surveys. Through long-standing relationships with communities across Cambodia, CDMD supports researchers and organizations with survey implementation and impact evaluations. All our work follows strict ethical standards, including informed consent and data protection."
+      button: "Discuss a research project"
+      subject: "Survey and evaluation inquiry"
   contact_title: "Contact Us"
   contact_text: "For partnership opportunities or general inquiries, please contact XXX, our Executive Director, by email:"
