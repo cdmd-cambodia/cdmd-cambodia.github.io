@@ -172,7 +172,7 @@ work:
       summary: "We provide skills training and employment support for persons with disabilities."
       photo: "/assets/images/employment-support.jpg"
       photo_alt: "Skills training session"
-      problem: "Adults with disabilities face barriers to skills and decent work. [Under Construction!]"
+      problem: "Adults with disabilities face barriers to skills and decent work. Many have had limited access to education and vocational training, and employers are often unaware of their abilities. CDMD provides skills training and works with employers to help persons with disabilities find and keep decent jobs."
       activities:
         - "Vocational skills training"
         - "Job matching and placement"
@@ -188,7 +188,7 @@ work:
       summary: "We support families of persons with disabilities to stay economically secure."
       photo: "/assets/images/family-support.jpg"
       photo_alt: "Family activity"
-      problem: "Households with a member with a disability face extra costs and lost income. [Under Construction!]"
+      problem: "Households with a member with a disability face extra costs and lost income. Caregiving often keeps family members out of paid work, and siblings may leave school to help at home. CDMD helps families access social protection and supports them in keeping all their children in school."
       activities:
         - "Linking families to social protection"
         - "Caregiver support"
@@ -204,11 +204,12 @@ work:
       summary: "We generate evidence to improve our programs and inform policy."
       photo: "/assets/images/research-evidence.jpg"
       photo_alt: "Survey data collection"
-      problem: "Reliable data on persons with disabilities in Cambodia remain limited. [Under Construction!]"
+      problem: "Reliable data on persons with disabilities in Cambodia remain limited. Without good evidence, it is difficult to design policies and programs that reach those who need them most. CDMD collects high-quality data, evaluates what works, and shares the findings with government partners and the research community."
       activities:
         - "Needs assessments and surveys"
-        - "Monitoring and evaluation of programs"
+        - "Rigorous impact evaluation of programs"
         - "Policy briefs shared with government partners"
+        - "Academic research and publications"
       projects:
         - title: "[Project title – Under Construction!]"
           years: "[Years]"
