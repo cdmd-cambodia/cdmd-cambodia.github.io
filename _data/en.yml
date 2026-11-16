@@ -250,7 +250,7 @@ resources:
 # ---------------- JOIN US ----------------
 # Paste the KoboToolbox or Google Form link in "apply_url".
 join:
-  intro: "[Under Construction!] Two or three sentences on why people join CDMD."
+  intro: "Whether you want to join our team, implement a project with us, or collaborate on research, we would like to hear from you. Together, we can build a more inclusive Cambodia."
   openings_title: "Current Openings"
   jobs:
     - title: "Enumerator Roster"
