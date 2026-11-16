@@ -114,16 +114,26 @@ about:
       name: "Integrity"
       text: "We manage funds transparently and protect the privacy and safety of the people we serve."
   message_title: "Message from the Executive Director"
-  director_name: "[Name]"
+  director_name: Nhip Thy
   director_title: "Executive Director"
   director_photo: ""        # e.g. /assets/images/director.jpg
   director_photo_alt: "Portrait of the Executive Director"
   message_intro: |
-    [Under Construction!] First paragraph, shown to all visitors. For example, why CDMD is relaunching its work.
-  message_rest: |
-    [Under Construction!] Remaining paragraphs, shown after "Read more." For example, CDMD's priorities and an invitation to partners.
+    Welcome to the Cambodian Development Mission for Disability (CDMD).
 
-    Each blank line starts a new paragraph.
+    I have more than 30 years of experience in disability inclusion, community development, and NGO leadership. Throughout this time, I have dedicated my professional journey to promoting the rights, dignity, and opportunities of persons with disabilities in Cambodia. This experience has strengthened my belief that every person, regardless of disability, deserves equal opportunities to learn, work, participate, and live independently.
+  message_rest: |
+    Despite progress in disability rights and inclusive development in Cambodia, many persons with disabilities continue to face significant barriers. These include limited access to quality education, healthcare, rehabilitation, employment, social protection, and accessible public facilities. Children and young people with disabilities are particularly at risk of exclusion from education. In addition, adults often encounter limited livelihood opportunities and barriers to full participation in their communities. Addressing these challenges requires stronger policies, inclusive services, community awareness, and meaningful participation of persons with disabilities in decisions that affect their lives.
+
+    Since its beginnings in 1993 and formal registration on 22 December 2006, CDMD has remained committed to empowering persons with disabilities and building more inclusive communities. Our work focuses on four key areas: inclusive education, employment and livelihoods, support for families, and research to inform policy and practice.
+
+    We believe that persons with disabilities are not merely recipients of support, but active contributors, decision-makers, and leaders in their communities. Meaningful inclusion requires strong partnerships, local ownership, and the active participation of persons with disabilities themselves.
+
+    As CDMD enters a new chapter, we remain committed to breaking down barriers, creating opportunities, and strengthening communities. We will continue working with government institutions, development partners, civil society, and the private sector to build a more inclusive Cambodia.
+
+    I warmly invite you to join us in this journey. Together, we can make a difference and ensure that no one is left behind.
+
+    Thank you for your interest and support.
   story_title: "Our Story"
   story:
     - year: "[Year]"
