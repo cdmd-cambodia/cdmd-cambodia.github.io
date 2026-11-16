@@ -192,4 +192,5 @@ h3 { font-size: 20px; font-weight: 600; }
   .apply { margin-left: 0; }
 }
 
-.page-head + .section { padding-top: 40px; }
+.page-head + .section { padding-top: 30px; }
+.vm .eyebrow { font-size: 18px; }
