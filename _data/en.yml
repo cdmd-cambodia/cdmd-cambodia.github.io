@@ -274,5 +274,5 @@ join:
         #### How to apply
         Click "Apply" and complete the registration form.
   contact_title: "Contact Us"
-  contact_text: "For partnership opportunities or general inquiries, please write to us or use the form."
+  contact_text: "For partnership opportunities or general inquiries, please write to us by email."
   contact_form_url: ""       # Google Form embed link (ends with ?embedded=true)
