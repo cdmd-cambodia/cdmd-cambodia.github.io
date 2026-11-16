@@ -79,7 +79,7 @@ home:
         - label: "At least one member with disability"
           value: 28
           display: "28%"
-      takeaway: "Households with a member with a disability are more likely to hold IDPoor, even at similar wealth levels."
+      takeaway: "Households with a member with a disability are more likely to hold IDPoor status, even at similar wealth levels."
       source: "Cambodia Inter-Censal Population Survey (CIPS) 2024. IDPoor status includes Poor 1 and Poor 2. Weighted estimates."
   cta_title: "Interested in working with us?"
   cta_text: "We welcome partners, researchers, and colleagues who share our commitment to inclusion."
