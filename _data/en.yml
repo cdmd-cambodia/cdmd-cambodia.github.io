@@ -46,7 +46,7 @@ home:
   name_html: '<span class="init">C</span>ambodian <span class="init">D</span>evelopment<br><span class="init">M</span>ission for <span class="init">D</span>isability'
   intro: "Many persons with disabilities in Cambodia remain excluded from school, work, and community life. CDMD works with government and community partners to change this."
   hero_button: "Explore Our Work"
-  hero_photo: ""            # e.g. /assets/images/hero.jpg
+  hero_photo: "/assets/images/hero-community.png"
   hero_photo_alt: "Activity or community scene"
   tagline: "Opening pathways to education, work, and dignified lives for persons with disabilities and their families in Cambodia."
   glance_title: "Disability in Cambodia at a Glance"
