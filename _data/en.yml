@@ -155,7 +155,7 @@ work:
       summary: "We help children with disabilities enter school, stay in school, and learn."
       photo: "/assets/images/learning-support.jpg"
       photo_alt: "Children learning in an inclusive classroom"
-      problem: "Children with disabilities are less likely to enroll in and complete school. [Under Construction!]"
+      problem: "Children with disabilities are less likely to enroll in and complete school. Many face barriers such as inaccessible school buildings, limited learning support, and teachers with little training in inclusive education. CDMD works with schools, families, and local authorities to help these children enter school, stay in school, and learn."
       activities:
         - "School enrollment support"
         - "Learning support and tutoring"
