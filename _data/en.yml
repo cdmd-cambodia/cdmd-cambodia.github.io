@@ -274,7 +274,7 @@ join:
 
         #### How to apply
         Click "Apply" and complete the registration form.
-  work_title: "Work With Us"
+  work_title: "Partnership Opportunities"
   work_items:
     - title: "Co-implementation"
       text: "We welcome partners who share our commitment to disability inclusion. You can join us as a funder, a technical advisor, or a local implementing partner, such as an NGO or a government agency. Together, we design, deliver, and evaluate projects that make a lasting difference."
@@ -285,4 +285,4 @@ join:
       button: "Discuss a research project"
       subject: "Survey and evaluation inquiry"
   contact_title: "Contact Us"
-  contact_text: "For partnership opportunities or general inquiries, please contact XXX, our Executive Director, by email:"
+  contact_text: "For partnership opportunities or general inquiries, please contact Nhip Thy, our Executive Director, by email:"
