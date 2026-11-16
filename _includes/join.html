@@ -27,9 +27,17 @@
   </div>
 </section>
 
-<section class="section wrap work-with-us" aria-labelledby="other">
-  <h2 id="other">{{ j.other_title }}</h2>
-  <p>{{ j.other_text }}</p>
+<section class="section wrap work-with-us" aria-labelledby="work-with-us">
+  <h2 id="work-with-us">{{ j.work_title }}</h2>
+  <div class="partner-cards">
+    {%- for w in j.work_items %}
+    <article class="partner-card">
+      <h3>{{ w.title }}</h3>
+      <p>{{ w.text }}</p>
+      <a class="btn btn-outline" href="mailto:{{ t.footer.email }}?subject={{ w.subject | uri_escape }}">{{ w.button }}<span class="sr-only">: {{ w.title }}</span></a>
+    </article>
+    {%- endfor %}
+  </div>
 </section>
 
 <section class="section section-tint" aria-labelledby="contact">
