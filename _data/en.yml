@@ -256,7 +256,7 @@ join:
     - title: "Enumerator Roster"
       location: "Various provinces"
       deadline: "Open continuously"
-      apply_url: ""          # e.g. https://ee.kobotoolbox.org/x/XXXX
+      apply_url: ""
       details: |
         CDMD is building a roster of enumerators for upcoming surveys across Cambodia. Registration is not a job offer. Registered candidates will be contacted when positions become available.
 
@@ -277,6 +277,4 @@ join:
   other_title: "Other Opportunities"
   other_text: "CDMD also welcomes partners who share our commitment to disability inclusion. You can work with us on projects as a funder, a technical advisor, or a local implementing partner, such as an NGO or a government agency. We also support researchers and organizations with survey implementation and impact evaluations, drawing on long-standing relationships with communities across Cambodia. To discuss an opportunity, please contact us below."
   contact_title: "Contact Us"
-  contact_text: "For partnership opportunities or general inquiries, please write to us by email."
-  contact_form_url: ""       # Google Form embed link (ends with ?embedded=true)
-  
+  contact_text: "For partnership opportunities or general inquiries, please contact XXX, our Executive Director, by email:"
