@@ -46,40 +46,40 @@ home:
   hero_photo_alt: "Activity or community scene"
   tagline: "Opening pathways to education, work, and dignified lives for persons with disabilities and their families in Cambodia."
   glance_title: "Disability in Cambodia at a Glance"
-  glance_intro: "About 2.8% of people aged 5 and over in Cambodia have a severe disability, and around one in ten households includes at least one person with a severe disability. Severe disability means having a lot of difficulty with, or being unable to do, at least one of six basic activities, such as seeing, walking, or remembering (Washington Group Short Set)."
+  glance_intro: "About 2.8% of people aged 5 and over in Cambodia have a disability, and around one in ten households includes at least one person with a disability. Disability here means having a lot of difficulty with, or being unable to do, at least one of six basic activities, such as seeing or walking (Washington Group Short Set)."
   charts:
     - title: "Children aged 6–18 currently in school"
       placeholder: false
       bars:
-        - label: "Without severe disability"
+        - label: "Without disability"
           value: 82
           display: "82%"
-        - label: "With severe disability"
+        - label: "With disability"
           value: 33
           display: "33%"
-      takeaway: "Only one in three children with a severe disability is in school, and more than half have never attended."
+      takeaway: "Only one in three children with a disability is in school, and more than half have never attended."
       source: "Cambodia Inter-Censal Population Survey (CIPS) 2024. Weighted estimates."
     - title: "Adults aged 15–64 who are employed"
       placeholder: false
       bars:
-        - label: "Without severe disability"
+        - label: "Without disability"
           value: 80
           display: "80%"
-        - label: "With severe disability"
+        - label: "With disability"
           value: 47
           display: "47%"
-      takeaway: "Fewer than half of adults with a severe disability are employed, and only one in six works as a paid employee."
+      takeaway: "Fewer than half of adults with a disability are employed, and only one in six works as a paid employee."
       source: "Cambodia Inter-Censal Population Survey (CIPS) 2024. Weighted estimates."
     - title: "Households holding IDPoor status"
       placeholder: false
       bars:
-        - label: "No member with severe disability"
+        - label: "No member with disability"
           value: 18
           display: "18%"
-        - label: "At least one member with severe disability"
+        - label: "At least one member with disability"
           value: 28
           display: "28%"
-      takeaway: "Households with a severe disability are more likely to hold IDPoor status, even compared with households of similar wealth."
+      takeaway: "Households with a member with a disability are more likely to hold IDPoor status, even compared with households of similar wealth."
       source: "Cambodia Inter-Censal Population Survey (CIPS) 2024. IDPoor status includes Poor 1 and Poor 2. Weighted estimates."
   cta_title: "Interested in working with us?"
   cta_text: "We welcome partners, researchers, and colleagues who share our commitment to inclusion."
