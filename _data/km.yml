@@ -1,9 +1,3 @@
-# ==========================================================
-# KHMER TEXT. Same structure as en.yml.
-# Replace each [Under Construction!] with the Khmer translation.
-# Menu and button labels below should be checked by a native speaker.
-# ==========================================================
-
 org_name: "Cambodian Development Mission for Disability"
 
 nav:
