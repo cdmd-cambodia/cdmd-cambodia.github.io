@@ -192,7 +192,7 @@ work:
           location: "[Province]"
           description: "[Under Construction!] Description and results of the project."
     - id: research
-      title: "Research and Evidence"
+      title: "Research"
       summary: "We generate evidence to improve our programs and inform policy."
       photo: "/assets/images/research-evidence.jpg"
       photo_alt: "Survey data collection"
