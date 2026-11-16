@@ -191,3 +191,5 @@ h3 { font-size: 20px; font-weight: 600; }
   .item-body { padding-left: 20px; }
   .apply { margin-left: 0; }
 }
+
+.page-head + .section { padding-top: 40px; }
