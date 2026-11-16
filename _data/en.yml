@@ -219,11 +219,11 @@ work:
 
 # ---------------- TEAM ----------------
 team:
-  intro: "[Under Construction!] One sentence introducing the team."
+  intro: "Our team brings together long experience in disability inclusion, community development, and research."
   members:
-    - name: "[Name 1]"
-      role: "[Role]"
-      photo: ""              # e.g. /assets/images/team1.jpg
+    - name: "Nhip Thy"
+      role: "Executive Director"
+      photo: "/assets/images/director.png"
       initials: "N1"
       bio: "[Under Construction!] Short biography."
     - name: "[Name 2]"
