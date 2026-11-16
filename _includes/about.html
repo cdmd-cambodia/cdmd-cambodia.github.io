@@ -5,8 +5,7 @@
   <h1>{{ t.nav.about }}</h1>
 </section>
 
-<section class="section wrap" aria-labelledby="guides">
-  <h2 id="guides">{{ a.guides_title }}</h2>
+<section class="section wrap" aria-label="{{ a.guides_title }}">
   <div class="vm">
     <div>
       <p class="eyebrow">{{ a.vision_label }}</p>
@@ -16,16 +15,6 @@
       <p class="eyebrow">{{ a.mission_label }}</p>
       <p>{{ a.mission }}</p>
     </div>
-  </div>
-  <p class="eyebrow">{{ a.values_label }}</p>
-  <div class="values">
-    {%- for v in a.values %}
-    <div class="value">
-      {% include icon.html name=v.icon %}
-      <h3>{{ v.name }}</h3>
-      <p>{{ v.text }}</p>
-    </div>
-    {%- endfor %}
   </div>
 </section>
 
