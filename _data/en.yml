@@ -70,17 +70,17 @@ home:
           display: "47%"
       takeaway: "Fewer than half of adults with a severe disability are employed, and only one in six works as a paid employee."
       source: "Cambodia Inter-Censal Population Survey (CIPS) 2024. Weighted estimates."
-    - title: "Households in the poorest 40% by wealth"
+    - title: "Households holding IDPoor status"
       placeholder: false
       bars:
         - label: "No member with severe disability"
-          value: 39
-          display: "39%"
+          value: 18
+          display: "18%"
         - label: "At least one member with severe disability"
-          value: 47
-          display: "47%"
-      takeaway: "Households that include a person with a severe disability are more likely to be among the poorest."
-      source: "Cambodia Inter-Censal Population Survey (CIPS) 2024. Weighted estimates."
+          value: 28
+          display: "28%"
+      takeaway: "Households with a severe disability are more likely to hold IDPoor status, even compared with households of similar wealth."
+      source: "Cambodia Inter-Censal Population Survey (CIPS) 2024. IDPoor status includes Poor 1 and Poor 2. Weighted estimates."
   cta_title: "Interested in working with us?"
   cta_text: "We welcome partners, researchers, and colleagues who share our commitment to inclusion."
   cta_button: "Join Us"
