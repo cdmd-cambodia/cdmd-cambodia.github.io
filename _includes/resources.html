@@ -14,7 +14,11 @@
         <p class="doc-meta">{{ d.type }} · {{ d.year }}</p>
       </div>
       {%- if d.file and d.file != "" %}
+        {%- if d.file contains "://" %}
+      <a class="btn btn-outline" href="{{ d.file }}" target="_blank" rel="noopener">{{ t.ui.download }}<span class="sr-only">: {{ d.title }} ({{ t.ui.new_tab }})</span></a>
+        {%- else %}
       <a class="btn btn-outline" href="{{ d.file | relative_url }}" download>{{ t.ui.download }}<span class="sr-only">: {{ d.title }}</span></a>
+        {%- endif %}
       {%- else %}
       <span class="doc-meta">{{ t.ui.coming_soon }}</span>
       {%- endif %}
