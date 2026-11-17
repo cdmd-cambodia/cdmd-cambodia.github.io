@@ -242,7 +242,7 @@ team:
 resources:
   intro: "Annual reports, research, and other documents from CDMD."
   items:
-    - title: "[Annual Report 2026 – Under Construction!]"
+    - title: "Annual Report 2026"
       type: "Annual Report"
       year: "2026"
       file: ""               # e.g. /assets/docs/annual-report-2026.pdf
