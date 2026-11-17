@@ -249,6 +249,9 @@ resources:
 
 # ---------------- JOIN US ----------------
 # Paste the KoboToolbox or Google Form link in "apply_url".
+join:
+  intro: "Whether you want to join our team, implement a project with us, or collaborate on research, we would like to hear from you. Together, we can build a more inclusive Cambodia."
+  openings_title: "Current Openings"
   jobs:
     - title: "Enumerator Roster"
       location: "Various provinces"
@@ -259,13 +262,13 @@ resources:
 
         #### Main tasks
         - Conduct face-to-face interviews with households and individuals
-        - Record data accurately on tablets or smartphones
+        - Record data accurately using a survey app on your smartphone
         - Obtain informed consent and keep respondents' data secure
 
         #### Requirements
         - Fluency in Khmer and basic English
         - Completed secondary or university education
-        - Comfortable using tablets or smartphones
+        - Own a smartphone and be willing to use it for data collection (an Android phone is preferred; CDMD covers mobile data costs)
         - Willing to travel to different provinces
         - Commitment to confidentiality and professional ethics
         - Experience working with persons with disabilities is an advantage
