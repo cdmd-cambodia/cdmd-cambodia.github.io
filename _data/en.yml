@@ -246,6 +246,14 @@ resources:
       type: "Annual Report"
       year: "2026"
       file: ""               # e.g. /assets/docs/annual-report-2026.pdf
+    - title: "Annual Report 2017"
+      type: "Annual Report"
+      year: "2017"
+      file: "https://drive.google.com/file/d/1RIe6aPsXhlgQoGX6g8fLkzwIzWC5Dzhy/view?usp=sharing"
+    - title: "Annual Report 2016"
+      type: "Annual Report"
+      year: "2016"
+      file: "https://drive.google.com/file/d/18sCQS039DL4Wspy23yHQn5UffNzyfDDd/view?usp=sharing"
 
 # ---------------- JOIN US ----------------
 # Paste the KoboToolbox or Google Form link in "apply_url".
