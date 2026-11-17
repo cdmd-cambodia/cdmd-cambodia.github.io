@@ -249,9 +249,6 @@ resources:
 
 # ---------------- JOIN US ----------------
 # Paste the KoboToolbox or Google Form link in "apply_url".
-join:
-  intro: "Whether you want to join our team, implement a project with us, or collaborate on research, we would like to hear from you. Together, we can build a more inclusive Cambodia."
-  openings_title: "Current Openings"
   jobs:
     - title: "Enumerator Roster"
       location: "Various provinces"
@@ -263,17 +260,60 @@ join:
         #### Main tasks
         - Conduct face-to-face interviews with households and individuals
         - Record data accurately on tablets or smartphones
-        - Follow ethical and data protection procedures
+        - Obtain informed consent and keep respondents' data secure
 
         #### Requirements
-        - Fluency in Khmer
+        - Fluency in Khmer and basic English
         - Completed secondary or university education
         - Comfortable using tablets or smartphones
         - Willing to travel to different provinces
+        - Commitment to confidentiality and professional ethics
         - Experience working with persons with disabilities is an advantage
 
         #### How to apply
-        Click "Apply" and complete the registration form.
+        Click "Apply" and select "Enumerator" in the registration form. You can select more than one role.
+    - title: "Interpreter Roster"
+      location: "Various provinces"
+      deadline: "Open continuously"
+      apply_url: ""
+      details: |
+        CDMD is building a roster of interpreters to support qualitative interviews and group discussions across Cambodia. Registration is not a job offer. Registered candidates will be contacted when positions become available.
+
+        #### Main tasks
+        - Interpret between Khmer and English during interviews and discussions
+        - Help researchers prepare for fieldwork, such as reviewing interview guides
+        - Help explain the purpose of each study to participants and communities
+
+        #### Requirements
+        - Fluency in spoken Khmer and English
+        - Willing to travel to different provinces
+        - Commitment to confidentiality and professional ethics
+        - Previous interpretation experience is an advantage
+        - Experience working with persons with disabilities is an advantage
+
+        #### How to apply
+        Click "Apply" and select "Interpreter" in the registration form. You can select more than one role.
+    - title: "Translator Roster"
+      location: "Remote"
+      deadline: "Open continuously"
+      apply_url: ""
+      details: |
+        CDMD is building a roster of translators for written materials, such as website content, information leaflets, and other documents. Registration is not a job offer. Registered candidates will be contacted when work becomes available.
+
+        #### Main tasks
+        - Translate documents between Khmer and English
+        - Adapt texts so they read naturally and are easy to understand
+        - Deliver translations by agreed deadlines
+
+        #### Requirements
+        - Fluency in written Khmer and English
+        - Strong attention to detail
+        - Access to a computer and a reliable internet connection
+        - Commitment to confidentiality and professional ethics
+        - Experience translating for NGOs or research projects is an advantage
+
+        #### How to apply
+        Click "Apply" and select "Translator" in the registration form. You can select more than one role.
   work_title: "Partnership Opportunities"
   work_items:
     - title: "Co-implementation"
