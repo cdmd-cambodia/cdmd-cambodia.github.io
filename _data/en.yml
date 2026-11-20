@@ -225,7 +225,10 @@ team:
       role: "Executive Director"
       photo: "/assets/images/director.png"
       initials: "N1"
-      bio: "[Under Construction!] Short biography."
+      bio: |
+        Mr. XXX is a Cambodian disability inclusion and development leader with more than 30 years of experience. He serves as Executive Director of CDMD, Cambodia Program Coordinator for Disability Support International (DSI), and Program Manager at Rabbit School Organization (RSO).
+
+        His expertise covers disability rights, inclusive education, organizational leadership, and program management. He is especially committed to children and youth with disabilities. His work has been recognized with the Rehabilitation International Centennial Award (2023) and Gold Medals from the Royal Government of Cambodia (2009 and 2012).
     - name: "Yuki Kanayama"
       role: "Research Director"
       photo: "/assets/images/team2.jpg"
